@@ -1,0 +1,152 @@
+    1  pwd
+    2  cd ~
+    3  pwd
+    4  ls
+    5  cd Desktop/
+    6  pwd
+    7  ls
+    8  ls -l
+    9  ls -a
+   10  ls
+   11  ls
+   12  ls
+   13  ls
+   14  ls
+   15  clear
+   16  ls
+   17  pwd
+   18  cd Git-Learnings/
+   19  ls
+   20  mkdir chodu
+   21  ls
+   22  rmdir chodu/
+   23  ls
+   24  mkdir abc
+   25  ls
+   26  rmdir abc
+   27  ls
+   28  mkdir audi
+   29  ls
+   30  cd audi/
+   31  touch abc.txt
+   32  ls
+   33  rmdir audi
+   34  cd
+   35  rmdir audi
+   36  pwd
+   37  cd
+   38  ls
+   39  cd Desktop/Git-Learnings/
+   40  ls
+   41  cd audi
+   42  ls
+   43  cd ..
+   44  ls
+   45  rmdir audi
+   46  rm -r audi
+   47  ls
+   48  cd
+   49  ls
+   50  pwd
+   51  cd
+   52  cd Desktop/
+   53  cd
+   54  cd Desktop/
+   55  cd 
+   56  cd Desktop/Git-Learnings/
+   57  mkdir sarad
+   58  ls
+   59  rmdir sharad
+   60  ls
+   61  cd
+   62  pwd Desktop/
+   63  mkdir rishav
+   64  ls
+   65  ls 
+   66  ls -l
+   67  cd
+   68  cd rishav/
+   69  pwd
+   70  cd ..
+   71  ls
+   72  cd Desktop/Git-Learnings/
+   73  ls
+   74  pwd
+   75  mkdir rishav
+   76  ls
+   77  rmdir rishav/
+   78  ls
+   79  cd sarad/
+   80  ls
+   81  clear
+   82  touch abc.txt
+   83  ls
+   84  cat abc.txt 
+   85  nano abc.txt 
+   86  ls
+   87  cat abc.txt 
+   88  cd ..
+   89  ls
+   90  rmdir sarad/
+   91  rm -r sarad/
+   92  ls
+   93  ls
+   94  mkdir sharad rishav chandu
+   95  ls
+   96  mv chandu/ rishav/
+   97  ls
+   98  cd rishav/
+   99  ls
+  100  mv chandu/ ../
+  101  ls
+  102  cd ..
+  103  ls
+  104  touch sh.txt rs.txt ch.txt
+  105  ls
+  106  mv ch.txt chandu/
+  107  mv sh.txt sharad/
+  108  mv rs.txt rishav/
+  109  ls
+  110  cd chandu/
+  111  ls
+  112  cd .
+  113  cd ..
+  114  ls
+  115  cd sharad/
+  116  ls
+  117  cd ..
+  118  ls
+  119  cd rishav/
+  120  ls
+  121  ls
+  122  rm rs.txt 
+  123  ls
+  124  ls
+  125  clear
+  126  cd ../sharad/
+  127  ls
+  128  cp sh.txt ../rishav/
+  129  ls
+  130  cd .
+  131  cd ../rishav/
+  132  ls
+  133  ls
+  134  nano ch.txt 
+  135  cat ch.txt 
+  136  cd ../../DELL/
+  137  cd
+  138  cd Desktop/Git-Learnings/
+  139  cd sharad/
+  140  rmdir sh.txt 
+  141  cd 
+  142  cd Desktop/Git-Learnings/
+  143  rm -r../
+  144  clear
+  145  rm -r sharad/ rishav/ chandu/ 
+  146  ls
+  147  cd ~
+  148  cd Desktop/Git-Learnings/
+  149  ls
+  150  clear
+  151  history 
+  152  history > linux_command_cheet_sheet.txt
